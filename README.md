@@ -22,7 +22,7 @@ It uses scikit-learn pipelines for robust preprocessing and model training, and 
 
 5.Evaluate performance with metrics like Accuracy, F1, ROC-AUC, Precision-Recall
 
-6.Save models with joblib for deployment
+6.Save models with joblib 
 
 7.Develop an interactive Streamlit app for real-time disease prediction
 
