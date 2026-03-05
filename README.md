@@ -36,15 +36,11 @@ It uses scikit-learn pipelines for robust preprocessing and model training, and 
 
 4.scikit-learn – preprocessing, ML models, pipelines
 
-5.imbalanced-learn – SMOTE & handling imbalance
+5.XGBoost / RandomForest / Logistic Regression – classifiers
 
-6.XGBoost / RandomForest / Logistic Regression – classifiers
+6.Joblib – model persistence
 
-7.SHAP – model interpretability
-
-8.Joblib – model persistence
-
-9.Streamlit – interactive UI
+7.Streamlit – interactive UI
 
 # 📊 Dataset Details
 # 1.Liver Disease Dataset
